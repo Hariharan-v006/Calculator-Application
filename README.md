@@ -14,19 +14,6 @@ A simple calculator application built using Java Swing that performs basic arith
 
 ✅ Compact and beginner-friendly code
 
-🖥️ Preview
-
-A small window-based calculator with buttons for digits (0–9), basic arithmetic operators, and a display field for showing results.
-
- ---------------------
-|         123 + 45    |
-|---------------------|
-| 7 | 8 | 9 |  /     |
-| 4 | 5 | 6 |  *     |
-| 1 | 2 | 3 |  -     |
-| 0 | C | = |  +     |
- ---------------------
-
 🧰 Requirements
 
 Java JDK 8 or higher
